@@ -109,6 +109,21 @@ body {
   background-position: center;
 }
 
+#specials-tile {
+  background: url('../images/specials.jpg') no-repeat;
+  background-position: center;
+}
+
+#gallery-tile {
+  background: url('../images/gallery.jpg') no-repeat;
+  background-position: center;
+}
+
+#about-us-tile {
+  background: url('../images/about-us.jpg') no-repeat;
+  background-position: center;
+}
+
 #menu-tile span, #recipes-tile span,#specials-tile span, #gallery-tile span, #about-us-tile span, #map-tile span {
   position: absolute;
   top: 70px;
